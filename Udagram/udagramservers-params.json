@@ -1,0 +1,10 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdagramProject"
+	},
+	{
+		"ParameterKey": "WebServerInstanceType",
+		"ParameterValue": "t3.medium"
+	}
+]
